@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\parametre ve dönderme\parametre ve dönderme\bin\Debug\parametre ve dönderme.exe.config
+C:\Users\user\Desktop\10-M\parametre ve dönderme\parametre ve dönderme\obj\Debug\parametre ve dönderme.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\parametre ve dönderme\parametre ve dönderme\obj\Debug\parametre_ve_dönderme.Form1.resources
+C:\Users\user\Desktop\10-M\parametre ve dönderme\parametre ve dönderme\obj\Debug\parametre_ve_dönderme.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\parametre ve dönderme\parametre ve dönderme\obj\Debug\parametre ve dönderme.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\parametre ve dönderme\parametre ve dönderme\bin\Debug\parametre ve dönderme.exe
+C:\Users\user\Desktop\10-M\parametre ve dönderme\parametre ve dönderme\bin\Debug\parametre ve dönderme.pdb
+C:\Users\user\Desktop\10-M\parametre ve dönderme\parametre ve dönderme\obj\Debug\parametre ve dönderme.exe
+C:\Users\user\Desktop\10-M\parametre ve dönderme\parametre ve dönderme\obj\Debug\parametre ve dönderme.pdb
